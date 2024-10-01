@@ -8,5 +8,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=IngBubu&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<img src="https://apimeme.com/meme?random=1" alt="Meme del día" width="300" height="300">
+
 
